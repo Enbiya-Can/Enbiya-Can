@@ -4,7 +4,7 @@
 - 👨‍💻 Tüm projelerim [https://www.artstation.com/enbiya](https://www.artstation.com/enbiya) adresinde mevcuttur
 
 - 📫 Bana nasıl ulaşabilirsiniz **enbiyasadikcan@gmail.com**
-https://a5.behance.net/f87d716e22ac2384850ffc598a62ded4955278e5/img/creator_pro/pro-profile-banner-large-overlay.webp
+
 - 📄 Deneyimlerimi öğrenin [https://www.linkedin.com/in/enbiya-sad%C4%B1k-can-a25816257/](https://www.linkedin.com/in/enbiya-sad%C4%B1k-can-a25816257/)
 
 <h3 align="left">Benimle iletişime geçin:</h3>
