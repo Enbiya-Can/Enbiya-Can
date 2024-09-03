@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/enbiya-can/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enbiya-sabit-olabilir" height="10" width="40" /></a>
 <a href=https://www.behance.net/EnbiyaCan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="enbiya-sabit-olabilir" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/@enbiya_c](https://www.youtube.com/@LyriaDawnstar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@enbiya_c" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@LyriaDawnstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@enbiya_c" height="30" width="40" /></a>
 </p>
 
 
