@@ -1,7 +1,10 @@
 <h1 align="center">Merhaba 👋, ben Enbiya</h1>
 <h3 align="center">Türkiye'den tutkulu bir Oyun Geliştiricisi</h3>
 
-- 👨‍💻 Tüm projelerim [https://www.artstation.com/enbiya](https://www.artstation.com/enbiya) adresinde mevcuttur
+- 👨‍💻 Tüm projelerim  [Enbiya Sadık CAN.pdf](https://github.com/user-attachments/files/16845004/Enbiya.Sadik.CAN.pdf)
+adresinde mevcuttur
+
+- 👨‍💻 CV [https://www.artstation.com/enbiya](https://www.artstation.com/enbiya) linkteki adreste mevcuttur
 
 - 📫 Bana nasıl ulaşabilirsiniz **enbiyasadikcan@gmail.com**
 
