@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Enbiya</h1>
-<h3 align="center">Türkiye'den tutkulu bir Oyun Geliştiricisi</h3>
+<h3 align="center">Tutkulu bir Oyun Geliştiricisiyim</h3>
 
 - 👨‍💻 Tüm projelerim  [https://www.artstation.com/enbiya](https://www.artstation.com/enbiya)
 adresinde mevcuttur
