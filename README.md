@@ -1,5 +1,5 @@
 <h1 align="center">Hello, 👋, I am  Enbiya</h1>
-<h3 align="center">Tutkulu bir Oyun Geliştiricisiyim</h3>
+<h3 align="center">I am a software developer</h3>
 
 - 👨‍💻 all projects  [https://www.artstation.com/enbiya](https://www.artstation.com/enbiya)
 It is available at
