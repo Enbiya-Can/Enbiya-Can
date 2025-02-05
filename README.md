@@ -4,7 +4,8 @@
 - 👨‍💻 all projects  [https://www.artstation.com/enbiya](https://www.artstation.com/enbiya)
 It is available at
 
-- 👨‍💻 CV [Enbiya Sadık CAN.pdf](https://github.com/user-attachments/files/16845004/Enbiya.Sadik.CAN.pdf) It is available at
+
+- 👨‍💻 CV [Enbiya.Sadik.CAN.pdf](https://github.com/user-attachments/files/18667992/Enbiya.Sadik.CAN.pdf) It is available at
 
 - 📫 How can you reach me? **enbiyasadikcan@gmail.com**
 
