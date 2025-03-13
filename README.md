@@ -23,4 +23,4 @@ It is available at
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=enbiya-can&show_icons=true&locale=tr" alt="enbiya-can" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enbiya-can&" alt="enbiya-can" /></p>
+
