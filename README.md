@@ -5,7 +5,8 @@
 It is available at
 
 
-- 👨‍💻 CV [EnbiyaCanCv.pdf](https://github.com/user-attachments/files/19227489/EnbiyaCanCv.pdf) It is available at
+- 👨‍💻 CV [EnbiyaEuropaCV.pdf](https://github.com/user-attachments/files/20779479/EnbiyaEuropaCV.pdf) It is available at
+
 
 - 📫 How can you reach me? **enbiyasadikcan@gmail.com**
 
