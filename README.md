@@ -24,8 +24,9 @@
 
 ### Current Stack
 - Unreal Engine 5
-- Blender / ZBrush
-- Substance / Photoshop
+- Blender / Photoshop
+- 3ds Max / Corona Renderer
+- DaVinci Resolve
 - TypeScript / Next.js
 
 ### Featured Links
@@ -36,12 +37,28 @@
 
 ---
 
-### GitHub Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Enbiya-Can" alt="Enbiya-Can github chart" />
-</p>
+### Skills
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Enbiya-Can&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enbiya-Can&layout=compact&theme=transparent&hide_border=true" alt="langs" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/3ds%20Max-006193?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Corona%20Renderer-E8470E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
+
+---
+
+### Focus Areas
+
+```
+ Environment Design       ████████████████████  Expert
+ Cinematic Lighting       ███████████████████░  Advanced
+ Real-Time Rendering      ████████████████████  Expert
+ Character Workflows      ████████████████░░░░  Proficient
+ AI Creative Tools        █████████████████░░░  Advanced
+ Web / TypeScript         ██████████████░░░░░░  Proficient
+```
